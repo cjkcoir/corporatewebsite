@@ -7,7 +7,7 @@ function AppHero() {
       id: 1,
       image: require("./assets/images/img-hero1.jpg").default,
       title: "The Perfect design for your Website",
-      description: "lorem25",
+      description: ". this is newly added line...",
       link: "https://www.google.com",
     },
 
